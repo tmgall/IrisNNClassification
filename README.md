@@ -1,6 +1,7 @@
 # Iris Neural Network Classification
 
 This is my first entirely independent machine learning project. I wrote all of the code in this project referencing only mathematical theory (no preexisting code). 
+
 After looking through some data sets available online, this one seemed to be the most popular as well as the most approachable, so I decided to create a deep learning model for it. Here's a link to the repository where I found the set: https://archive.ics.uci.edu/ml/datasets/Iris. 
 
 I wrote it in Python, and the only libraries I used were Pandas (for data organization and easy display) and NumPy (for handling the linear algebra). 
